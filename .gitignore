@@ -1,5 +1,7 @@
 # 自分のスプレッドシートへのリンク
 LINK.md
+*.url
+*.gsheet
 
 # clasp
 .clasp.json
