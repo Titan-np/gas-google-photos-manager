@@ -1,13 +1,16 @@
-# 自分のスプレッドシートへのリンク
-LINK.md
-*.url
+# Google ドキュメント
+*.gdoc
 *.gsheet
+*.gslides
 
 # clasp
 .clasp.json
 .claspignore
 
 # ---- 以下、共通的な設定内容 ----
+
+# ローカルでの個人用メモ
+*.local.md
 
 # OS・クラウドが生成する隠しファイル
 Thumbs.db
